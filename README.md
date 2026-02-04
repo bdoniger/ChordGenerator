@@ -1,5 +1,12 @@
 # ds5030_project1: Chord Generator
 
-This repository contains the code that uses Markov Chains to generate chords based on data from the Chordonomincon. 
+## Overview
+This project explores music generation by building a Markov Chain to generate and play chords for country music.
 
-Team Members: Isabela Barton, Hayeon Chung, and Ben Doniger.
+## Data Source
+Chordonomicon: https://huggingface.co/datasets/ailsntua/Chordonomicon/resolve/main/chordonomicon_v2.csv
+
+## Authors
+- Isabela Barton
+- Hayeon Chung
+- Ben Doniger
